@@ -1,5 +1,5 @@
 # Usage2ADW - Oracle Cloud Infrastructure Usage and Cost Reports to Autonomous Database with APEX Reporting
 
-## How To Manual
+Usage Reports to ADW Repository has been moved
 
-Please visit OCI Python SDK repository at [link](https://github.com/oracle/oci-python-sdk/blob/master/examples/usage_reports_to_adw/step_by_step_howto.md)
+Please visit the main Usage2ADW repository at [https://github.com/oracle-samples/usage-reports-to-adw](https://github.com/oracle-samples/usage-reports-to-adw)
