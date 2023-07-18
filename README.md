@@ -6,4 +6,4 @@ Authentication to OCI by User or instance principals.
 
 It uses APEX for Visualization and generates Daily e-mail report.
 
-Please visit OCI Python SDK repository at [link](https://github.com/oracle/oci-python-sdk/examples/usage_reports_to_adw)
+Please visit the Usage2ADW main repository at [https://github.com/oracle-samples/usage-reports-to-adw](https://github.com/oracle-samples/usage-reports-to-adw)
